@@ -1,0 +1,10 @@
+select {
+    display: block;
+    -webkit-appearance: block;
+    appearance: none;
+	line-height: normal;
+	position: relative;
+	background-position: right 10px top 50%;
+    background-repeat: no-repeat;
+    width: 70px;
+}
